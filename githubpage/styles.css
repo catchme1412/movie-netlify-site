@@ -16,6 +16,7 @@
 
 body {
   margin: 0;
+ 
 }
 
 /* Disable ugly boxes around images in IE10 */
@@ -175,7 +176,7 @@ a img{
   height: 800px;
   width: auto;
   background-color: #f3f3f3;
-  background: url('images/slide01.jpg') center 30% no-repeat;
+  background: url('images/film.png') center 10% no-repeat;
   background-size: cover;
 }
 
